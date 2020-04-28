@@ -1,0 +1,22 @@
+{
+  "name": "tiva-faq-scraper",
+  "version": "1.0.0",
+  "description": "Express Server and Vue App that works together to schedule the scraping of QA's from various web pages.",
+  "scripts": {
+    "release:dry-run": "release-it --dry-run",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artificialsolutions-tiva/tiva-faq-scraper.git"
+  },
+  "author": "Peter Joles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artificialsolutions-tiva/tiva-faq-scraper/issues"
+  },
+  "homepage": "https://github.com/artificialsolutions-tiva/tiva-faq-scraper#readme",
+  "devDependencies": {
+    "release-it": "^13.5.7"
+  }
+}
